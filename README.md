@@ -20,10 +20,10 @@ It also highlights **trends over time**, including the impact of external factor
 ## 📊 Dashboard Preview
 
 ### 🔹 Page 1: Listings & Trends Analysis
-![Dashboard Image 1](images/dashboard1.png)
+![Dashboard Image 1](overview.png)
 
 ### 🔹 Page 2: Ratings & Market Share Analysis
-![Dashboard Image 2](images/dashboard2.png)
+![Dashboard Image 2](Ratings.png)
 
 ---
 
